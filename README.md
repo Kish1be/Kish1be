@@ -1,5 +1,6 @@
 ## 👋🏻 Hi, I am Kish1be!
-https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXJndTVrNTR0eTZyaXY1ODdsODZheXk4NmR2anQ1eHA3aWNzeGtrNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IyeheChYxx2byDu/giphy.gif
+![hacker](https://github.com/user-attachments/assets/4df32a77-7be3-4581-bd5c-074737da3e5c)
+
 
 <!--
 **Kish1be/Kish1be** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
