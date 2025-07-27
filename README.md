@@ -1,5 +1,7 @@
 ## 👋🏻 Hi, I am Kish1be!
-![hacker](https://github.com/user-attachments/assets/4df32a77-7be3-4581-bd5c-074737da3e5c)
+![anonymous-hacker](https://github.com/user-attachments/assets/fdf11be4-2df4-49e7-9934-a163cf650c27)
+
+
 
 ### 🦎 About Me:
 - 🍓 Python
